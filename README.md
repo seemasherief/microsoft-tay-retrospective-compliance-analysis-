@@ -11,6 +11,7 @@ This is a retroactive compliance assessment of the Microsoft Tay chatbot inciden
 
 ![Microsoft Tay Twitter Profile — March 2016](evidence/tay-twitter-profile-archived.jpg)
 ```
+---
 
 Tay was a conversational AI chatbot launched publicly on Twitter. It was shutdown 16 hours after launch after generating genocidal rhetoric, Holocaust denial, 9/11 conspiracy content and anti-feminist statements. All publicly, in Microsoft's name, to hundreds of thousands of followers. One week later, Microsoft accidentally reactivated it during internal testing.
 
