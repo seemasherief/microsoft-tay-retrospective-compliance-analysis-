@@ -9,6 +9,9 @@
 
 This is a retroactive compliance assessment of the Microsoft Tay chatbot incident (March 23–24, 2016), applied against regulatory frameworks that did not exist at the time of the incident.
 
+![Microsoft Tay Twitter Profile — March 2016](evidence/tay-twitter-profile-archived.jpg)
+```
+
 Tay was a conversational AI chatbot launched publicly on Twitter. It was shutdown 16 hours after launch after generating genocidal rhetoric, Holocaust denial, 9/11 conspiracy content and anti-feminist statements. All publicly, in Microsoft's name, to hundreds of thousands of followers. One week later, Microsoft accidentally reactivated it during internal testing.
 
 The purpose of this analysis is not to assign legal liability retroactively. It is to demonstrate what responsible AI governance requires today, using a fully documented historical failure as the evidence base.
