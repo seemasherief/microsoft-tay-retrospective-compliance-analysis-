@@ -32,7 +32,7 @@ Tay was marketed as a learning AI. The tagline was "the more you talk to Tay, th
 
 **The accidental re-release.**
 
-Microsoft took Tay offline after sixteen hours and acknowledged the incident publicly. Approximately one week later, Tay was accidentally reactivated during internal testing, reaching over 200,000 followers before being shut down again. At this point, the team had full awareness of the system's behaviour — which makes the absence of a deployment control gate between the test environment and live public access a notable governance gap.
+Microsoft took Tay offline after sixteen hours and acknowledged the incident publicly. Approximately one week later, Tay was accidentally reactivated during internal testing, reaching over 200,000 followers before being shut down again. At this point, the team had full awareness of the system's behaviour, which makes the absence of a deployment control gate between the test environment and live public access a notable governance gap.
 
 **Microsoft already knew how to do this correctly.**
 
