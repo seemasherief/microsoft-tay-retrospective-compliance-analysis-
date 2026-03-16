@@ -1,6 +1,7 @@
 # Microsoft Tay - Retroactive AI Compliance Assessment
 
 **Prepared by:** Seema Sherief
+
 **Frameworks applied:** EU AI Act (2024/1689) · GDPR · CCPA · AI Governance Principles
 
 ---
