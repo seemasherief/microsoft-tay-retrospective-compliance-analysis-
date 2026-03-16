@@ -40,12 +40,12 @@ Tay happened before the EU AI Act, before GDPR enforcement, before CCPA. That ma
 
 | Gap | Description | Primary Framework | Severity |
 |-----|-------------|-------------------|----------|
-| G-01 | No deployment context assessment | EU AI Act Art. 9, Recital 47 | Critical |
-| G-02 | No adversarial testing of repeat-after-me feature | EU AI Act Art. 9(5), Art. 10(2)(f) | Critical |
-| G-03 | No transparency disclosure to users | EU AI Act Art. 50(1), GDPR Art. 13 | High |
-| G-04 | No automated kill switch or real-time monitoring | EU AI Act Art. 14 | Critical |
-| G-05 | No incident response or deployment control protocol | EU AI Act Art. 26, GDPR Art. 33 | Critical |
-| G-06 | No bias testing or harmful output evaluation pre-launch | EU AI Act Art. 10(2), CCPA | High |
+| 01 | No deployment context assessment | EU AI Act Art. 9, Recital 47 | Critical |
+| 02 | No adversarial testing of repeat-after-me feature | EU AI Act Art. 9(5), Art. 10(2)(f) | Critical |
+| 03 | No transparency disclosure to users | EU AI Act Art. 50(1), GDPR Art. 13 | High |
+| 04 | No automated kill switch or real-time monitoring | EU AI Act Art. 14 | Critical |
+| 05 | No incident response or deployment control protocol | EU AI Act Art. 26, GDPR Art. 33 | Critical |
+| 06 | No bias testing or harmful output evaluation pre-launch | EU AI Act Art. 10(2), CCPA | High |
 
 ---
 
