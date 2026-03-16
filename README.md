@@ -34,7 +34,7 @@ Tay happened before the EU AI Act, before GDPR enforcement, before CCPA. That ma
 
 ---
 
-## What I found — 6 governance gaps
+## What I found - 6 governance gaps
 
 | Gap | Description | Primary Framework | Severity |
 |-----|-------------|-------------------|----------|
