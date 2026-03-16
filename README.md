@@ -6,7 +6,7 @@
 
 ---
 
-## What this is
+## Pupose and Scope
 
 This is a retroactive compliance assessment of the Microsoft Tay chatbot incident (March 23–24, 2016), applied against regulatory frameworks that did not exist at the time of the incident.
 
