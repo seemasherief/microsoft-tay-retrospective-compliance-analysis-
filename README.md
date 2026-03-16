@@ -9,6 +9,9 @@
 
 This is a retroactive compliance assessment of the Microsoft Tay chatbot incident (March 23–24, 2016), applied against regulatory frameworks that did not exist at the time of the incident.
 
+![Microsoft Tay Twitter Profile — March 2016](evidence/tay-twitter-profile-archived.png)
+*Microsoft Tay — Twitter profile, March 23, 2016. Source: Wayback Machine archive.*
+
 Tay was a conversational AI chatbot launched publicly on Twitter. It was shutdown 16 hours after launch after generating genocidal rhetoric, Holocaust denial, 9/11 conspiracy content and anti-feminist statements. All publicly, in Microsoft's name, to hundreds of thousands of followers. One week later, Microsoft accidentally reactivated it during internal testing.
 
 The purpose of this analysis is not to assign legal liability retroactively. It is to demonstrate what responsible AI governance requires today, using a fully documented historical failure as the evidence base.
@@ -52,13 +55,13 @@ Tay happened before the EU AI Act, before GDPR enforcement, before CCPA. That ma
 All findings are grounded in publicly verifiable primary sources. 
 Screenshots of each source are in the `/evidence` folder.
 
-- **Microsoft Official Blog** — "Learning from Tay's Introduction" (March 25, 2016)  
+- **Microsoft Official Blog** - "Learning from Tay's Introduction" (March 25, 2016)  
   `https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction`
 
-- **AI Incident Database** — Entry #6  
+- **AI Incident Database** - Entry #6  
   `https://incidentdatabase.ai/cite/6`
 
-- **Wikipedia** — Tay (chatbot) incident record  
+- **Wikipedia** - Tay (chatbot) incident record  
   `https://en.wikipedia.org/wiki/Tay_(chatbot)`
 
 ---
