@@ -1,6 +1,6 @@
-# Microsoft Tay - Retroactive AI Compliance Assessment
+# Microsoft Tay — Retroactive AI Compliance Assessment
 
-**Prepared by:** Seema Sherief   
+**Prepared by:** Seema Sherief
 **Frameworks applied:** EU AI Act (2024/1689) · GDPR · CCPA · AI Governance Principles
 
 ---
@@ -9,13 +9,9 @@
 
 This is a retroactive compliance assessment of the Microsoft Tay chatbot incident (March 23–24, 2016), applied against regulatory frameworks that did not exist at the time of the incident.
 
-![Microsoft Tay Twitter Profile — March 2016](evidence/tay-twitter-profile-archived.jpg)
-```
+![Microsoft Tay](evidence/tay-twitter-profile-archived.jpg)
 
----
-
-
-Tay was a conversational AI chatbot launched publicly on Twitter. It was shutdown 16 hours after launch after generating genocidal rhetoric, Holocaust denial, 9/11 conspiracy content and anti-feminist statements. All publicly, in Microsoft's name, to hundreds of thousands of followers. One week later, Microsoft accidentally reactivated it during internal testing.
+Tay was a conversational AI chatbot launched publicly on Twitter. It was shut down 16 hours after launch after generating genocidal rhetoric, Holocaust denial, 9/11 conspiracy content and anti-feminist statements. All publicly, in Microsoft's name, to hundreds of thousands of followers. One week later, Microsoft accidentally reactivated it during internal testing.
 
 The purpose of this analysis is not to assign legal liability retroactively. It is to demonstrate what responsible AI governance requires today, using a fully documented historical failure as the evidence base.
 
@@ -25,18 +21,17 @@ The purpose of this analysis is not to assign legal liability retroactively. It 
 
 Three reasons, in order of importance.
 
-**The risk was foreseeable.** 
+**The risk was foreseeable.**
 
 Microsoft had already built and successfully operated Xiaoice, a near-identical conversational AI, in China before Tay was built. Xiaoice worked. The difference was not the technology. It was that the team understood the deployment context. When they built Tay for the American Twitter environment, the project head later admitted they had not understood what they were walking into. That means this was not an unforeseeable failure. It was a foreseeable risk that no one did the work to foresee.
 
 **The re-release is the most damning fact.**
 
-The first incident could be called a critical oversight. The accidental reactivation on March 30th, after the team had full knowledge of what the system could do - cannot. There was no deployment control gate between internal testing and live public deployment. That is a governance 
-infrastructure failure, not a technical one.
+The first incident could be called a critical oversight. The accidental reactivation on March 30th, after the team had full knowledge of what the system could do, cannot. There was no deployment control gate between internal testing and live public deployment. That is a governance infrastructure failure, not a technical one.
 
 **It predates all major frameworks.**
 
-Tay happened before the EU AI Act, before GDPR enforcement, before CCPA. That makes it a clean test case. The question is not what the law required. It is what basic responsible engineering required and if those principles, now formalised in regulation, would have prevented this.
+Tay happened before the EU AI Act, before GDPR enforcement, before CCPA. That makes it a clean test case. The question is not what the law required. It is what basic responsible engineering required, and if those principles, now formalised in regulation, would have prevented this.
 
 ---
 
@@ -55,34 +50,36 @@ Tay happened before the EU AI Act, before GDPR enforcement, before CCPA. That ma
 
 ## Primary sources
 
-All findings are grounded in publicly verifiable primary sources. 
-Screenshots of each source are in the `/evidence` folder.
+All findings are grounded in publicly verifiable primary sources.
 
-- **Microsoft Official Blog** - "Learning from Tay's Introduction" (March 25, 2016)  
-  `https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction`
+- **Microsoft Official Blog** - "Learning from Tay's Introduction" (March 25, 2016)
+  https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction
 
-- **AI Incident Database** - Entry #6  
-  `https://incidentdatabase.ai/cite/6`
+- **AI Incident Database** - Entry #6
+  https://incidentdatabase.ai/cite/6
 
-- **Wikipedia** - Tay (chatbot) incident record  
-  `https://en.wikipedia.org/wiki/Tay_(chatbot)`
+- **Wikipedia** - Tay (chatbot) incident record
+  https://en.wikipedia.org/wiki/Tay_(chatbot)
 
 ---
 
 ## Repository structure
 ```
 /
-├── README.md                          ← You are here
+├── README.md
 ├── /analysis
-│   └── Tay_Compliance_Assessment.pdf  ← Full gap analysis document
+│   └── Tay_Compliance_Assessment.pdf
 ├── /evidence
-│   ├── msft-official-apology-blog-march2016.png
-│   ├── ai-incident-database-tay-entry.png
-│   └── wikipedia-tay-incident-timeline.png
-└── gap-tracker.md                     ← Living gap register
+│   ├── tay-twitter-profile-archived.jpg
+└── gap-tracker.md
 ```
 
 ---
 
-*This document was prepared as independent portfolio work. 
-It does not represent the views of any employer past or present.*
+## Video walkthrough
+
+- **2-minute summary** — coming soon
+- **8-minute deep dive** — coming soon
+
+---
+
