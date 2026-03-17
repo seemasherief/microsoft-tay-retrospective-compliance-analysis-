@@ -190,11 +190,4 @@ For organisations deploying AI in customer service environments today, the quest
 
 ---
 
-## Video walkthrough
-
-- **2-minute summary** — [coming soon]
-- **8-minute deep dive** — [coming soon]
-
----
-
 *This document was prepared as independent portfolio work. It does not represent the views of any employer past or present.*
